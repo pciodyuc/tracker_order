@@ -1,7 +1,7 @@
 # tracker_order
 说明：
 * 部分基于https://github.com/foolwood/benchmark_results
-* 由于自己的其他需求后续会添加一些其他的内容，请关注https://github.com/foolwood/benchmark_results
+* 由于自己的其他需求后续会添加一些其他内容，请关注https://github.com/foolwood/benchmark_results
 
 | Tracker   | AUC-CVPR2013| Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50|DeepLearning|RealTime|      
 | :---------: | :---------: | :----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
