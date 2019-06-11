@@ -3,7 +3,7 @@
 * 部分基于https://github.com/foolwood/benchmark_results
 * 由于自己的其他需求后续会添加一些其他内容，请关注https://github.com/foolwood/benchmark_results
 
-| Tracker|AUC-CVPR2013| Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50|DeepLearning|RealTime|      
+| Tracker|AUC-CVPR2013| Precision-CVPR2013 | AUC-OTB100 | Precision-OTB100 | AUC-OTB50 | Precision-OTB50|Deep Learning|RealTime|      
 | :---------: | :---------: | :----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 |     ECO     |  **0.709**   |        0.93        | **0.694**  |    **0.910**     |  *0.643*  |     *0.874*     |       Y       |    N(6)    |
 |    MDNet    |   *0.708*    |      *0.948*       |  *0.678*   |     *0.909*      | **0.645** |    **0.890**    |       Y       |    N(1)    |
